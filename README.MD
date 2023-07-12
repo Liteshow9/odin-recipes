@@ -1,0 +1,2 @@
+This is a test project that the Odin Project is forcing upon me for my own good.
+It will allow me to demonstrate the HTML coding skills that I have learned thus far. In addition my typing speed and accuracy should improve drastically, otherwise I will hate myself for letting slow typing be the bane of my existence.
